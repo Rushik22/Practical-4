@@ -1,4 +1,10 @@
-public static void oddNumberAnalysis() {
+public class OddNumbers {
+
+    public static void main(String[] args) {
+        OddNumbers();   // calling the method
+    }
+
+    public static void OddNumbers() {
 
         int sum = 0;
         int count = 0;
